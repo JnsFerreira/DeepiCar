@@ -1,5 +1,6 @@
 import cv2
 import numpy as np
+
  
 def make_points(image, line):
     slope, intercept = line
